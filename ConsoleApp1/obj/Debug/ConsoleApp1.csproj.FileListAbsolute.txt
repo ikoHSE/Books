@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\student\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\student\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\student\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\student\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\student\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+\\Mac\Home\Desktop\nashiekr\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\nashiekr\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\nashiekr\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+\\Mac\Home\Desktop\nashiekr\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+\\Mac\Home\Desktop\nashiekr\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+\\Mac\Home\Desktop\nashiekr\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+\\Mac\Home\Desktop\nashiekr\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
